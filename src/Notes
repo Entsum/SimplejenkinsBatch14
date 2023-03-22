@@ -1,0 +1,11 @@
+CI/CD :
+    Continues integration and continue development
+    all the software that use whether its a website or app or any operating system
+    They are in a continue state change. We need to continuously develop and update
+    these software so that customers can use the latest features.
+    Jenkins is one such software that will help us automate this process.
+
+1) Once the software is ready and looks good on the developers machine,
+   developer pushes that code to the development server.
+
+
